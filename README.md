@@ -553,6 +553,9 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
 ### 2e1 Example Project Content Structure
 <pre>
 |-- Content
+    |-- Cinematics
+        |-- Backups
+        |-- AnimationScenes
     |-- <a href="#2.2">GenericShooter</a>
         |-- Art
         |   |-- Industrial
